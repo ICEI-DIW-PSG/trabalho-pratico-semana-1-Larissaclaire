@@ -12,8 +12,8 @@ Matricula:902483
 `<img src="imagem_imersao.jpg" alt="Descrição da imagem">
 
 ## Tela de projeto no Replit
+``<img src="replit.jpg" alt="Descrição da imagem">
 
-`<Coloque aqui o print da tela do projeto no Replit>`
 
 
 ## Orientações sobre Linguagem MarkDown
