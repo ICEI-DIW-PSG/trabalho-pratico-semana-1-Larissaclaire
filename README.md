@@ -4,12 +4,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Larissa Claire Barros Domingos
+Matricula:902483
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<img src="imagem_imersao.jpg" alt="Descrição da imagem">
 
 ## Tela de projeto no Replit
 
