@@ -9,7 +9,7 @@ Matricula:902483
 
 ## Tela de inspeção com navegador
 
-`<img src="imagem_imersao.jpg" alt="Descrição da imagem">
+`<img src="imagem_imersao.jpg.png" alt="Descrição da imagem">
 
 ## Tela de projeto no Replit
 ``<img src="replit.jpg" alt="Descrição da imagem">
